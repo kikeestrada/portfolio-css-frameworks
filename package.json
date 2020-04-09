@@ -1,7 +1,7 @@
 {
   "name": "portfolio-css-frameworks",
   "version": "1.0.0",
-  "description": "## Bootstrap [Ir al Workshop](https://ed.team/cursos/bootstrap)",
+  "description": "CSS frameworks",
   "main": "index.js",
   "homepage": "https://kikeestrada.github.io/portfolio-css-frameworks/public/",
   "scripts": {
