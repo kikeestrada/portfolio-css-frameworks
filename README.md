@@ -1,13 +1,13 @@
 # Frameworks Frontend desarollado por kikeestrada
 
 ## Bootstrap
-[Ir al Workshop](https://ed.team/cursos/bootstrap)
+[Ver Sitio](https://kikeestrada.github.io/portfolio-css-frameworks/bootstrap.html)
 
 
 ## Foundation
-[Ir al Workshop](https://ed.team/cursos/foundation)
+[Ver Sitio](https://kikeestrada.github.io/portfolio-css-frameworks/foundation.html)
 
 
 ## Materialize
-[Ir al Workshop](https://ed.team/cursos/materialize)
+[Ver Sitio](https://kikeestrada.github.io/portfolio-css-frameworks/materialize.html)
 
